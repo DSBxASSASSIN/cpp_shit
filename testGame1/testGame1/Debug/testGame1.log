@@ -1,0 +1,4 @@
+﻿  testGame1.cpp
+C:\Users\thijs\source\repos\testGame1\testGame1\testGame1.cpp(13,26): error C2664: 'bool Engine::Initialize(char *)': cannot convert argument 1 from 'const char [5]' to 'char *'
+C:\Users\thijs\source\repos\testGame1\testGame1\testGame1.cpp(13,20): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\thijs\source\repos\testGame1\testGame1\Engine\Engine.h(19,7): message : see declaration of 'Engine::Initialize'
